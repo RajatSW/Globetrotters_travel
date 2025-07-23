@@ -30,13 +30,6 @@ Live Demo: https://rajatsw.github.io/Globetrotters_travel/
 - No frameworks used – built from scratch!
 
 
-## 🚀 Future Improvements(working on)
-
-- Add JavaScript for interactivity (carousel, dark mode, form validation)
-- Integrate backend for real-time bookings
-- Enhance animations and accessibility
-
-
 ## 🧑‍💻 Author
 
 **Rajat Waldia**   
