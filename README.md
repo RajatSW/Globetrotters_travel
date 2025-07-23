@@ -16,7 +16,7 @@
 - ## 🚀 Demo
 > You can host this project using GitHub Pages or Netlify.
 
-Live Demo: [Coming Soon](#)
+Live Demo: https://rajatsw.github.io/Globetrotters_travel/
 
 - 🎨 Clean UI with user-friendly layout
 
